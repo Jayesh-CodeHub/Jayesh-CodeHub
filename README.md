@@ -62,12 +62,18 @@ I focus on building **scalable, secure, and reliable delivery pipelines**, enabl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-CodeHub&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-CodeHub&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-CodeHub&layout=compact&theme=radical" />
+  <!-- Activity Overview -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayesh-CodeHub&show_icons=true&theme=radical&hide=prs,issues,contribs" />
+
+  <!-- Streak (minimal info, looks active) -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jayesh-CodeHub&theme=radical&hide_longest_streak=true" />
 </p>
+
+<p align="center">
+  <!-- Languages (always looks active even if not updated daily) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-CodeHub&layout=compact&theme=radical" />
+</p>
+
 
 
 ---
